@@ -1,5 +1,4 @@
 # surgeryflow
-![Alt Text](logo_surgeryflow.png)
 <img src="logo_surgeryflow.png" alt="Alt Text" width="25%">
 
 SURGERYFLOW IS STILL A WORK IN PROGRESS - DO NOT USE
